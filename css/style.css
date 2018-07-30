@@ -5,6 +5,12 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+  background-image: url("../images/white-wood.jpg");
+  background: linear-gradient;
+  
 }
 
 .container, h1 {
